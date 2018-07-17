@@ -43,5 +43,5 @@ console.log("Tweeted on:" +trump17[0].created_at);
 
 let trumpString = JSON.stringify(trump);
 console.log(trumpString);
-let trudeauString = JSON.stringify(trump);
+let trudeauString = JSON.stringify(trudeau);
 console.log(trudeauString);
